@@ -50,12 +50,8 @@ section{
 .star-reviews li {
     display: inline;
 }
-#frontpage {
-    margin-bottom: 30px;
-}
 form {
-    width: 70%;
-    margin-left: 400px;
+    padding-top: 30px;
 }
 .footer {
     width: 100%;

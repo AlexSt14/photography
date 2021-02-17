@@ -14,11 +14,16 @@ body {
     font-variant: small-caps;
 }
 .container #cardcontainer {
-    background-color: rgba(201, 201, 201, 0.6);
+    background-color: rgba(255, 255, 255, 0.705);
     background-image: linear-gradient(rgba(201, 201, 201, 0.6), white);
 }
 section{
-    background-color: rgba(201, 201, 201, 0.6);
+    background-color: rgba(255, 255, 255, 0.705);
+    background-image: linear-gradient(rgba(201, 201, 201, 0.6), white);
+    position: relative;
+}
+.section{
+    background-color: rgba(255, 255, 255, 0.705);
     background-image: linear-gradient(rgba(201, 201, 201, 0.6), white);
     position: relative;
 }
@@ -41,7 +46,8 @@ section{
     text-align: center;
 }
 #reviews_body {
-    background-color: rgba(201, 201, 201, 0.4);
+    background-color: rgba(255, 255, 255, 0.705);
+    background-image: linear-gradient(rgba(201, 201, 201, 0.6), white);
 }
 .star-reviews {
     list-style: none;
